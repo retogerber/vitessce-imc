@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvitessce_imc=self.webpackChunkvitessce_imc||[]).push([[516],{70516:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(15671),u=r(43144),c=r(60136),i=r(29388),s=r(58308),f=function(e){(0,c.Z)(r,e);var n=(0,i.Z)(r);function r(){return(0,t.Z)(this,r),n.apply(this,arguments)}return(0,u.Z)(r,[{key:"decodeBlock",value:function(e){return(0,s.rr)(new Uint8Array(e)).buffer}}]),r}(r(29878).Z)}}]);
+//# sourceMappingURL=516.904bb723.chunk.js.map
